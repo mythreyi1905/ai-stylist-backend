@@ -92,4 +92,4 @@ The API is self-documenting. Once the server is running, you can access the inte
 
 This interface allows you to test every endpoint directly from your browser.
 
-For a complete guide with copy-pasteable cURL commands for every endpoint, please see the **[API Testing Guide](./API_TESTING_GUIDE.md)**.
+For a complete guide with copy-pasteable cURL commands for every endpoint, please see the **[API Testing Guide](./https://github.com/mythreyi1905/ai-stylist-backend/blob/main/api_documentation.md)**.
