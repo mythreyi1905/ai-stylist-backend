@@ -1,6 +1,6 @@
 # AI Fashion Stylist - Backend API
 
-This repository contains the backend API for the AI Fashion Stylist, a personalized wardrobe management and outfit suggestion engine. The API is built with Python using the FastAPI framework and is designed to be the core engine for a mobile (SwiftUI) or web application.
+This repository contains the backend API for the AI Fashion Stylist, a personalized wardrobe management and outfit suggestion engine. The API is built with Python using the FastAPI framework and is designed to be the core engine for a mobile or web application.
 
 ## Core Features
 
