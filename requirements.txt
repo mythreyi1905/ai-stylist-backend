@@ -1,0 +1,25 @@
+# --- Core API Framework ---
+fastapi==0.95.2
+uvicorn[standard]==0.29.0
+
+# --- Database ---
+sqlalchemy==1.4.52
+
+# --- Data Validation & Configuration ---
+pydantic==1.10.14
+python-dotenv==1.0.1
+
+# --- Authentication & Security ---
+python-jose[cryptography]==3.3.0
+passlib==1.7.4
+bcrypt==4.1.2
+python-multipart==0.0.9
+
+# --- AI & Vector DB ---
+openai==1.51.0
+chromadb==0.4.22
+numpy==1.26.4
+
+
+# --- Optional Utilities ---
+requests==2.31.0
